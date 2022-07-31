@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             Log.w("info : ", user.getDisplayName() + user.getPhotoUrl() + user.getEmail());
             String name = user.getDisplayName();
             if (name.equals("")) {
-                nama.setText("Undefined");
+                nama.setText("Not Found");
             } else {
                 nama.setText(name);
             }
