@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222666174653",
+    "project_id": "login-register-firebase-48315",
+    "storage_bucket": "login-register-firebase-48315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222666174653:android:4610ef0c40091a0e2fc7d4",
+        "android_client_info": {
+          "package_name": "com.ganipohan.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222666174653-j3dsa0apka3jfidfio9dj4efja55lvql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ganipohan.loginregisterfirebase",
+            "certificate_hash": "06aebfed1a03a528031d68c6c446444898b0e1d1"
+          }
+        },
+        {
+          "client_id": "222666174653-70jnd153n3jjkcdeoo9ul9ulphnbgeaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1L6a7WOuwGfM0SAYQUAMLyMhqqENIAtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222666174653-70jnd153n3jjkcdeoo9ul9ulphnbgeaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
